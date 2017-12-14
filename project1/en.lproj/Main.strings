@@ -1,0 +1,183 @@
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "1VM-UW-ycy"; */
+"1VM-UW-ycy.text" = "Email:";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "2A4-Ac-wng"; */
+"2A4-Ac-wng.text" = "Phone:";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "3yQ-Pm-aB4"; */
+"3yQ-Pm-aB4.text" = "Address:";
+
+/* Class = "UILabel"; text = "Meaning"; ObjectID = "43G-1m-ePH"; */
+"43G-1m-ePH.text" = "Meaning";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5MS-Qt-twR"; */
+"5MS-Qt-twR.text" = "Label";
+
+/* Class = "UILabel"; text = "Enlarge"; ObjectID = "5yN-sy-Xye"; */
+"5yN-sy-Xye.text" = "Enlarge";
+
+/* Class = "UILabel"; text = "Drop Off"; ObjectID = "6aG-ZA-vRf"; */
+"6aG-ZA-vRf.text" = "Drop Off";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "7QA-79-7b1"; */
+"7QA-79-7b1.normalTitle" = "Edit";
+
+/* Class = "UITabBarItem"; title = "Animation"; ObjectID = "8TV-5u-9sr"; */
+"8TV-5u-9sr.title" = "Animation";
+
+/* Class = "UISegmentedControl"; 9aQ-6c-ii6.segmentTitles[0] = "Male"; ObjectID = "9aQ-6c-ii6"; */
+"9aQ-6c-ii6.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; 9aQ-6c-ii6.segmentTitles[1] = "Female"; ObjectID = "9aQ-6c-ii6"; */
+"9aQ-6c-ii6.segmentTitles[1]" = "Female";
+
+/* Class = "UIButton"; normalTitle = "Generate"; ObjectID = "CBX-fg-UOw"; */
+"CBX-fg-UOw.normalTitle" = "Generate";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DCA-Q5-mhB"; */
+"DCA-Q5-mhB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Faster"; ObjectID = "Dao-Nc-H8V"; */
+"Dao-Nc-H8V.text" = "Faster";
+
+/* Class = "UILabel"; text = "Change Color"; ObjectID = "Emp-Q0-60f"; */
+"Emp-Q0-60f.text" = "Change Color";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Ffg-Bf-YND"; */
+"Ffg-Bf-YND.text" = "Address";
+
+/* Class = "UILabel"; text = "Write Your Name"; ObjectID = "G9X-07-bLU"; */
+"G9X-07-bLU.text" = "Write Your Name";
+
+/* Class = "UITabBarItem"; title = "Main App"; ObjectID = "Iyt-TV-GIg"; */
+"Iyt-TV-GIg.title" = "Main App";
+
+/* Class = "UITabBarItem"; title = "camera"; ObjectID = "KLJ-Gy-pol"; */
+"KLJ-Gy-pol.title" = "camera";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "KNj-7p-9Mr"; */
+"KNj-7p-9Mr.text" = "Last name";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "LVs-AU-kcn"; */
+"LVs-AU-kcn.text" = "Address";
+
+/* Class = "UILabel"; text = "Chinese Version"; ObjectID = "Nc4-sh-PZf"; */
+"Nc4-sh-PZf.text" = "Chinese Version";
+
+/* Class = "UILabel"; text = "English Version"; ObjectID = "O83-y9-u1A"; */
+"O83-y9-u1A.text" = "English Version";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "OkT-H2-nmy"; */
+"OkT-H2-nmy.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SMk-Wc-OE3"; */
+"SMk-Wc-OE3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T3l-Jh-Jgj"; */
+"T3l-Jh-Jgj.text" = "Label";
+
+/* Class = "UILabel"; text = "Fade"; ObjectID = "T80-Kk-mbM"; */
+"T80-Kk-mbM.text" = "Fade";
+
+/* Class = "UIButton"; normalTitle = "save"; ObjectID = "TxX-1p-TVo"; */
+"TxX-1p-TVo.normalTitle" = "save";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "Tzc-ac-h9x"; */
+"Tzc-ac-h9x.text" = "Phone";
+
+/* Class = "UIButton"; normalTitle = "Silly Animation"; ObjectID = "U9G-S5-EYo"; */
+"U9G-S5-EYo.normalTitle" = "Silly Animation";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WDa-uY-65r"; */
+"WDa-uY-65r.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "WaG-Oe-Txj"; */
+"WaG-Oe-Txj.text" = "Email";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "Y7J-q6-7Ps"; */
+"Y7J-q6-7Ps.text" = "Phone";
+
+/* Class = "UISegmentedControl"; Yr0-8L-S57.segmentTitles[0] = "easy"; ObjectID = "Yr0-8L-S57"; */
+"Yr0-8L-S57.segmentTitles[0]" = "easy";
+
+/* Class = "UISegmentedControl"; Yr0-8L-S57.segmentTitles[1] = "normal"; ObjectID = "Yr0-8L-S57"; */
+"Yr0-8L-S57.segmentTitles[1]" = "normal";
+
+/* Class = "UISegmentedControl"; Yr0-8L-S57.segmentTitles[2] = "hard"; ObjectID = "Yr0-8L-S57"; */
+"Yr0-8L-S57.segmentTitles[2]" = "hard";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "ZR4-b2-pQX"; */
+"ZR4-b2-pQX.text" = "Company";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zi0-qR-INr"; */
+"Zi0-qR-INr.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "save as image"; ObjectID = "aZI-Jl-WuL"; */
+"aZI-Jl-WuL.normalTitle" = "save as image";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c5L-EF-hg8"; */
+"c5L-EF-hg8.text" = "Label";
+
+/* Class = "UILabel"; text = "Chinese Name"; ObjectID = "dI1-ae-wz3"; */
+"dI1-ae-wz3.text" = "Chinese Name";
+
+/* Class = "UILabel"; text = "How to write your name"; ObjectID = "dM9-bH-r29"; */
+"dM9-bH-r29.text" = "How to write your name";
+
+/* Class = "UILabel"; text = "Job Title:"; ObjectID = "esD-HB-6wf"; */
+"esD-HB-6wf.text" = "Job Title:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "f7O-IN-sIR"; */
+"f7O-IN-sIR.text" = "Title";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "hZL-HB-9aB"; */
+"hZL-HB-9aB.text" = "Gender";
+
+/* Class = "UILabel"; text = "Chinese Name"; ObjectID = "iwx-Ff-ssY"; */
+"iwx-Ff-ssY.text" = "Chinese Name";
+
+/* Class = "UILabel"; text = "English Name"; ObjectID = "jGx-4k-RPm"; */
+"jGx-4k-RPm.text" = "English Name";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "meT-Bb-Ubz"; */
+"meT-Bb-Ubz.text" = "Company";
+
+/* Class = "UIButton"; normalTitle = "Generate Business Card"; ObjectID = "n6r-IE-WU3"; */
+"n6r-IE-WU3.normalTitle" = "Generate Business Card";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pIx-gC-Wte"; */
+"pIx-gC-Wte.text" = "Title";
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "r9u-dg-vCO"; */
+"r9u-dg-vCO.text" = "First name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rsH-kL-mnf"; */
+"rsH-kL-mnf.text" = "Label";
+
+/* Class = "UILabel"; text = "Company:"; ObjectID = "soU-xX-Vqd"; */
+"soU-xX-Vqd.text" = "Company:";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ttq-qf-D7g"; */
+"ttq-qf-D7g.text" = "Email";
+
+/* Class = "UISegmentedControl"; vKM-bj-ohq.segmentTitles[0] = "trivial"; ObjectID = "vKM-bj-ohq"; */
+"vKM-bj-ohq.segmentTitles[0]" = "trivial";
+
+/* Class = "UISegmentedControl"; vKM-bj-ohq.segmentTitles[1] = "Modish"; ObjectID = "vKM-bj-ohq"; */
+"vKM-bj-ohq.segmentTitles[1]" = "Modish";
+
+/* Class = "UISegmentedControl"; vKM-bj-ohq.segmentTitles[2] = "Quaint"; ObjectID = "vKM-bj-ohq"; */
+"vKM-bj-ohq.segmentTitles[2]" = "Quaint";
+
+/* Class = "UILabel"; text = "English Name"; ObjectID = "wlS-qP-o4E"; */
+"wlS-qP-o4E.text" = "English Name";
+
+/* Class = "UILabel"; text = "Writable"; ObjectID = "wqi-04-Jr1"; */
+"wqi-04-Jr1.text" = "Writable";
+
+/* Class = "UILabel"; text = "Slower"; ObjectID = "x0J-p7-Gzj"; */
+"x0J-p7-Gzj.text" = "Slower";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yus-W9-LTH"; */
+"yus-W9-LTH.text" = "Label";
