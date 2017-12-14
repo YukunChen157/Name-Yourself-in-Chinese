@@ -1,7 +1,7 @@
 # Name-yourself-in-Chinese
 Swift iOS program.
 
-Partners: Junyang Chen, Zixiang Liu, Yukun Chen, Yifei Yang
+Partners: Junyang Chen, Yukun Chen, Zixiang Liu, Yifei Yang
 
 Proposal:
 Introduction
